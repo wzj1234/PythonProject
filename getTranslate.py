@@ -1,3 +1,5 @@
+# 这是调用 谷歌翻译 接口，实现将英文pdf翻译成 中英双语
+
 #coding=utf-8
 import requests    
 import execjs  
